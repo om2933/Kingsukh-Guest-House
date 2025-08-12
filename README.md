@@ -1,27 +1,47 @@
-King Sukh Guest House
+# King Sukh Guest House - Website
 
-Welcome to **King Sukh Guest House** — your perfect holiday destination in the heart of Purulia, West Bengal.  
-Surrounded by the scenic beauty of Nature, we offer a blend of comfort, luxury, and warm hospitality.
+A modern, responsive website for King Sukh Guest House located in Barhanti, West Bengal, showcasing its accommodations, services, and contact information.
 
-Features:-
-Beautiful Location – Serene surroundings with easy access to popular tourist attractions.
-Luxurious Rooms – Deluxe, Executive, and Family Suite options.
-Affordable Pricing – Starting from ₹1000/night.
-24x7 Services – High-class security, room service, and on-site restaurant.
-Online Booking – Book instantly via WhatsApp.
-Photo Gallery – Explore our rooms, gardens, and local scenery.
-Google Maps Integration – Navigate easily to our location.
+## Features
+- **Responsive Design**: Works on all devices (mobile, tablet, desktop)
+- **Modern UI**: Clean, attractive interface with Tailwind CSS
+- **Interactive Elements**: 
+  - Booking buttons with WhatsApp integration
+  - Contact form
+  - Interactive gallery
+- **Google Maps Integration**: Easy location finding
+- **Room Information**: Detailed descriptions and pricing
+- **Service Highlights**: Key amenities and services
 
- Room Details:-
- Room Type        | Price (per night) | Features |
- Deluxe Room      | ₹1000            | Spacious rooms with modern amenities |
- Executive Room   | ₹1500            | Ideal for business and professional stays |
- Family Suite     | ₹3000            | Perfect for families with multiple beds |
+## Technologies Used
+- HTML5
+- Tailwind CSS
+- Font Awesome icons
+- Google Maps API
+- Responsive design principles
 
-Tech Stack
-Frontend: HTML5, Tailwind CSS, Font Awesome
-Deployment: GitHub Pages / Netlify / Vercel
-Integration: WhatsApp API for instant booking
-Assets: Local image files for rooms, gallery, and sections
+## Pages
+**Home Page** (`index.html`) - Main landing page with all sections
+   Hero section
+   About section
+   Rooms section
+   Services
+   Gallery
+   Contact form
+   Google Maps integration
+   Footer
 
+## Installation
+No installation required - this is a static website that runs in any modern browser. Simply open `index.html` in your preferred web browser.
 
+## Usage
+1. Navigate through the different sections using the menu:
+   - About Us
+   - Rooms
+   - Gallery
+   - Contact
+2. Click "BOOK NOW" buttons to initiate WhatsApp booking
+3. Use the contact form to send inquiries
+4. View location via embedded Google Maps
+
+**"Experience Comfort & Luxury in the Heart of West Bengal's Scenic Beauty"**
